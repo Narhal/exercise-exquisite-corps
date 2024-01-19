@@ -10,3 +10,6 @@ soudaine et occupa la voiture à la place des chevaux. Ils brandissaient des pan
 exigeant des droits égaux pour les oiseaux. Marcelino, perplexe, tenta de négocier avec le chef des canards, 
 qui se révéla être un hibou philosophe.
 
+**Et donc la petite sirène** 
+_qui se balade_
+dans l'océan magique des andes est perdue
