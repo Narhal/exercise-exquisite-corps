@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # **La balade en Calèche ** 
-=======
+
 # exercise-exquisite-corps
 *bon ca commence a me casser les bonbons cette histoire !!!!!!!!!!*
 **tu devrais aller voir Marcellino, il est dans sa calèche!!!!!!!!!**
@@ -17,4 +17,4 @@ qui se révéla être un hibou philosophe.<br>
 _qui se balade_
 dans l'océan magique des andes est perdue
 
->>>>>>> development
+
